@@ -8,7 +8,7 @@ Currently exploring various corners of computer science, from algorithms and dat
 Active learner and problem solver who enjoys collaborating with others on projects that push the boundaries of what's possible. Whether it's debugging a tricky algorithm or architecting a new application, I'm always eager to dive in.
 
 ## Current Focus 🎯
-Deepening my understanding of fundamental CS concepts while staying up-to-date with modern technologies and best practices in software development.
+Deepening my understanding of fundamental DSA concepts while staying up-to-date with modern technologies and best practices in software development.
 Building projects that not only showcase my technical skills but also demonstrate my ability to create practical solutions to real-world problems.
 
 ## Let's Connect 🤝
