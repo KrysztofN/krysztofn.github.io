@@ -1,4 +1,4 @@
-﻿# Krzysztof_Nowak.github.io
+﻿# Krzysztof Nowak github.io
  
 ## Hello, World! 👋 <br>
 I'm a Computer Science student passionate about turning ideas into code and solving real-world problems through technology. My journey in tech is driven by curiosity and a desire to create meaningful solutions.
